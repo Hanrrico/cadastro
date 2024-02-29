@@ -1,0 +1,21 @@
+#principal{
+    width: 900px;
+    height: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+#banner{
+    width: 100%;
+    height: 200px;
+    background-color: #507bbf;
+    position: absolute;
+}
+
+#corpo{
+    width: 100%;
+    height: 790px;
+    background-color: #78a1e3;
+    position: absolute;
+    margin-top: 210px;
+}
